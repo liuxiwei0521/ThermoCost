@@ -1,5 +1,7 @@
 # ThermoCost
 
+## 👉 Online Demo [Click here to launch the app](https://thermal-cost-prototype.streamlit.app/)
+
 **A reproducible research prototype for thermal power unit cost estimation and day-ahead schedule comparison.**
 
 > **Scope statement:** This repository contains a sanitized, independently reproducible prototype derived from cost-estimation work conducted within a broader industry collaboration. It is not the original enterprise codebase, a complete electricity-trading platform, or evidence of production deployment. No confidential source code, raw plant data, proprietary market records, or externally sourced model artifacts are required to run the public workflow.
